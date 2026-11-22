@@ -2,21 +2,21 @@
   "schema_version": "1.0.0",
   "product_name": "Chint DAP",
   "version": "0.1.5",
-  "released_at": "2026-11-22T18:45:06.092282+00:00",
+  "released_at": "2026-11-22T20:07:57.387935+00:00",
   "release_page": "https://chintsso.feishu.cn/base/UujAbjaJjadC9bsyuEicGGCAnOe?table=tblR4UHOCvxbNa2v&view=vewDgrnKhh",
   "platforms": [
     {
       "platform": "windows",
       "filename": "Chint DAP_0.1.5_x64-setup.exe",
-      "sha256": "088d51018c07b73266bcd8d6e72143237be4556774a6e74daa61ebd2459902a0",
-      "size_bytes": 231642637,
+      "sha256": "9c7d561fba285d530b099eb3af50ca1ea41eee6b7689063e2be3765074e8ba3d",
+      "size_bytes": 231631708,
       "format": "exe"
     },
     {
       "platform": "macos",
       "filename": "Chint DAP_0.1.5_aarch64.dmg",
-      "sha256": "0245c53c6cdce6d54cf29aafd3e4475071d4e2e5d21501463ccd9f49dec231c2",
-      "size_bytes": 234028442,
+      "sha256": "8a388d7181e8d2621438a8019e64873368d2838445bc219d575140ad12d128d9",
+      "size_bytes": 234017958,
       "format": "dmg"
     }
   ]
